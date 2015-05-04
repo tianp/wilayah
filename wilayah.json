@@ -1,5 +1,6 @@
 [
   {
+    "code": "11",
     "name":"Aceh",
     "districts": [
       {
@@ -74,6 +75,7 @@
     ]
   },
   {
+    "code": "12",
     "name":"Sumatera Utara",
     "districts": [
       {
@@ -178,6 +180,7 @@
     ]
   },
   {
+    "code": "13",
     "name":"Sumatera Barat",
     "districts": [
       {
@@ -240,6 +243,7 @@
     ]
   },
   {
+    "code": "14",
     "name":"Riau",
     "districts": [
       {
@@ -281,32 +285,7 @@
     ]
   },
   {
-    "name":"Kepulauan Riau",
-    "districts": [
-      {
-        "name":"Kabupaten Bandar Seri Bentan"
-      },
-      {
-        "name":"Kabupaten Karimun"
-      },
-      {
-        "name":"Kabupaten Kepulauan Anambas"
-      },
-      {
-        "name":"Kabupaten Lingga"
-      },
-      {
-        "name":"Kabupaten Natuna"
-      },
-      {
-        "name":"Kota Batam"
-      },
-      {
-        "name":"Kota Tanjung Pinang"
-      }
-    ]
-  },
-  {
+    "code": "15",
     "name":"Jambi",
     "districts": [
       {
@@ -345,41 +324,7 @@
     ]
   },
   {
-    "name":"Bengkulu",
-    "districts": [
-      {
-        "name":"Kabupaten Bengkulu Selatan"
-      },
-      {
-        "name":"Kabupaten Bengkulu Tengah"
-      },
-      {
-        "name":"Kabupaten Bengkulu Utara"
-      },
-      {
-        "name":"Kabupaten Kaur"
-      },
-      {
-        "name":"Kabupaten Kepahiang"
-      },
-      {
-        "name":"Kabupaten Lebong"
-      },
-      {
-        "name":"Kabupaten Mukomuko"
-      },
-      {
-        "name":"Kabupaten Rejang Lebong"
-      },
-      {
-        "name":"Kabupaten Seluma"
-      },
-      {
-        "name":"Kota Bengkulu"
-      }
-    ]
-  },
-  {
+    "code": "16",
     "name":"Sumatera Selatan",
     "districts": [
       {
@@ -436,32 +381,43 @@
     ]
   },
   {
-    "name":"Kepulauan Bangka Belitung",
+    "code": "17",
+    "name":"Bengkulu",
     "districts": [
       {
-        "name":"Kabupaten Bangka"
+        "name":"Kabupaten Bengkulu Selatan"
       },
       {
-        "name":"Kabupaten Bangka Barat"
+        "name":"Kabupaten Bengkulu Tengah"
       },
       {
-        "name":"Kabupaten Bangka Selatan"
+        "name":"Kabupaten Bengkulu Utara"
       },
       {
-        "name":"Kabupaten Bangka Tengah"
+        "name":"Kabupaten Kaur"
       },
       {
-        "name":"Kabupaten Belitung"
+        "name":"Kabupaten Kepahiang"
       },
       {
-        "name":"Kabupaten Belitung Timur"
+        "name":"Kabupaten Lebong"
       },
       {
-        "name":"Kota Pangkal Pinang"
+        "name":"Kabupaten Mukomuko"
+      },
+      {
+        "name":"Kabupaten Rejang Lebong"
+      },
+      {
+        "name":"Kabupaten Seluma"
+      },
+      {
+        "name":"Kota Bengkulu"
       }
     ]
   },
   {
+    "code": "18",
     "name":"Lampung",
     "districts": [
       {
@@ -512,6 +468,61 @@
     ]
   },
   {
+    "code": "19",
+    "name":"Kepulauan Bangka Belitung",
+    "districts": [
+      {
+        "name":"Kabupaten Bangka"
+      },
+      {
+        "name":"Kabupaten Bangka Barat"
+      },
+      {
+        "name":"Kabupaten Bangka Selatan"
+      },
+      {
+        "name":"Kabupaten Bangka Tengah"
+      },
+      {
+        "name":"Kabupaten Belitung"
+      },
+      {
+        "name":"Kabupaten Belitung Timur"
+      },
+      {
+        "name":"Kota Pangkal Pinang"
+      }
+    ]
+  },
+  {
+    "code": "21",
+    "name":"Kepulauan Riau",
+    "districts": [
+      {
+        "name":"Kabupaten Bandar Seri Bentan"
+      },
+      {
+        "name":"Kabupaten Karimun"
+      },
+      {
+        "name":"Kabupaten Kepulauan Anambas"
+      },
+      {
+        "name":"Kabupaten Lingga"
+      },
+      {
+        "name":"Kabupaten Natuna"
+      },
+      {
+        "name":"Kota Batam"
+      },
+      {
+        "name":"Kota Tanjung Pinang"
+      }
+    ]
+  },
+  {
+    "code": "36",
     "name":"Banten",
     "districts": [
       {
@@ -541,6 +552,31 @@
     ]
   },
   {
+    "code": "31",
+    "name":"DKI Jakarta",
+    "districts": [
+      {
+        "name":"Kabupaten Administrasi Kepulauan Seribu"
+      },
+      {
+        "name":"Kota Administrasi Jakarta Barat"
+      },
+      {
+        "name":"Kota Administrasi Jakarta Pusat"
+      },
+      {
+        "name":"Kota Administrasi Jakarta Selatan"
+      },
+      {
+        "name":"Kota Administrasi Jakarta Timur"
+      },
+      {
+        "name":"Kota Administrasi Jakarta Utara"
+      }
+    ]
+  },
+  {
+    "code": "32",
     "name":"Jawa Barat",
     "districts": [
       {
@@ -626,30 +662,9 @@
       }
     ]
   },
+
   {
-    "name":"DKI Jakarta",
-    "districts": [
-      {
-        "name":"Kabupaten Administrasi Kepulauan Seribu"
-      },
-      {
-        "name":"Kota Administrasi Jakarta Barat"
-      },
-      {
-        "name":"Kota Administrasi Jakarta Pusat"
-      },
-      {
-        "name":"Kota Administrasi Jakarta Selatan"
-      },
-      {
-        "name":"Kota Administrasi Jakarta Timur"
-      },
-      {
-        "name":"Kota Administrasi Jakarta Utara"
-      }
-    ]
-  },
-  {
+    "code": "33",
     "name":"Jawa Tengah",
     "districts": [
       {
@@ -760,6 +775,28 @@
     ]
   },
   {
+    "code": "34",
+    "name":"DI Yogyakarta",
+    "districts": [
+      {
+        "name":"Kabupaten Bantul"
+      },
+      {
+        "name":"Kabupaten Gunung Kidul"
+      },
+      {
+        "name":"Kabupaten Kulon Progo"
+      },
+      {
+        "name":"Kabupaten Sleman"
+      },
+      {
+        "name":"Kota Yogyakarta"
+      }
+    ]
+  },
+  {
+    "code": "35",
     "name":"Jawa Timur",
     "districts": [
       {
@@ -879,26 +916,7 @@
     ]
   },
   {
-    "name":"DI Yogyakarta",
-    "districts": [
-      {
-        "name":"Kabupaten Bantul"
-      },
-      {
-        "name":"Kabupaten Gunung Kidul"
-      },
-      {
-        "name":"Kabupaten Kulon Progo"
-      },
-      {
-        "name":"Kabupaten Sleman"
-      },
-      {
-        "name":"Kota Yogyakarta"
-      }
-    ]
-  },
-  {
+    "code": "51",
     "name":"Bali",
     "districts": [
       {
@@ -931,6 +949,7 @@
       ]
   },
   {
+    "code": "52",
     "name":"Nusa Tenggara Barat",
     "districts": [
       {
@@ -966,6 +985,7 @@
     ]
   },
   {
+    "code": "53",
     "name":"Nusa Tenggara Timur",
     "districts": [
       {
@@ -1037,6 +1057,7 @@
     ]
   },
   {
+    "code": "61",
     "name":"Kalimantan Barat",
     "districts": [
       {
@@ -1084,50 +1105,7 @@
     ]
   },
   {
-    "name":"Kalimantan Selatan",
-    "districts": [
-      {
-        "name":"Kabupaten Balangan"
-      },
-      {
-        "name":"Kabupaten Banjar"
-      },
-      {
-        "name":"Kabupaten Barito Kuala"
-      },
-      {
-        "name":"Kabupaten Hulu Sungai Selatan"
-      },
-      {
-        "name":"Kabupaten Hulu Sungai Tengah"
-      },
-      {
-        "name":"Kabupaten Hulu Sungai Utara"
-      },
-      {
-        "name":"Kabupaten Kotabaru"
-      },
-      {
-        "name":"Kabupaten Tabalong"
-      },
-      {
-        "name":"Kabupaten Tanah Bumbu"
-      },
-      {
-        "name":"Kabupaten Tanah Laut"
-      },
-      {
-        "name":"Kabupaten Tapin"
-      },
-      {
-        "name":"Kota Banjarbaru"
-      },
-      {
-        "name":"Kota Banjarmasin"
-      }
-    ]
-  },
-  {
+    "code": "62",
     "name":"Kalimantan Tengah",
     "districts": [
       {
@@ -1175,6 +1153,52 @@
     ]
   },
   {
+    "code": "63",
+    "name":"Kalimantan Selatan",
+    "districts": [
+      {
+        "name":"Kabupaten Balangan"
+      },
+      {
+        "name":"Kabupaten Banjar"
+      },
+      {
+        "name":"Kabupaten Barito Kuala"
+      },
+      {
+        "name":"Kabupaten Hulu Sungai Selatan"
+      },
+      {
+        "name":"Kabupaten Hulu Sungai Tengah"
+      },
+      {
+        "name":"Kabupaten Hulu Sungai Utara"
+      },
+      {
+        "name":"Kabupaten Kotabaru"
+      },
+      {
+        "name":"Kabupaten Tabalong"
+      },
+      {
+        "name":"Kabupaten Tanah Bumbu"
+      },
+      {
+        "name":"Kabupaten Tanah Laut"
+      },
+      {
+        "name":"Kabupaten Tapin"
+      },
+      {
+        "name":"Kota Banjarbaru"
+      },
+      {
+        "name":"Kota Banjarmasin"
+      }
+    ]
+  },
+  {
+    "code": "64",
     "name":"Kalimantan Timur",
     "districts": [
       {
@@ -1210,6 +1234,7 @@
     ]
   },
   {
+    "code": "65",
     "name":"Kalimantan Utara",
     "districts": [
       {
@@ -1230,29 +1255,103 @@
     ]
   },
   {
-    "name":"Gorontalo",
+    "code": "71",
+    "name":"Sulawesi Utara",
     "districts": [
       {
-        "name":"Kabupaten Boalemo"
+        "name":"Kabupaten Bolaang Mongondow"
       },
       {
-        "name":"Kabupaten Bone Bolango"
+        "name":"Kabupaten Bolaang Mongondow Selatan"
       },
       {
-        "name":"Kabupaten Gorontalo"
+        "name":"Kabupaten Bolaang Mongondow Timur"
       },
       {
-        "name":"Kabupaten Gorontalo Utara"
+        "name":"Kabupaten Bolaang Mongondow Utara"
       },
       {
-        "name":"Kabupaten Pohuwato"
+        "name":"Kabupaten Kepulauan Sangihe"
       },
       {
-        "name":"Kota Gorontalo"
+        "name":"Kabupaten Kepulauan Siau Tagulandang Biaro"
+      },
+      {
+        "name":"Kabupaten Kepulauan Talaud"
+      },
+      {
+        "name":"Kabupaten Minahasa"
+      },
+      {
+        "name":"Kabupaten Minahasa Selatan"
+      },
+      {
+        "name":"Kabupaten Minahasa Tenggara"
+      },
+      {
+        "name":"Kabupaten Minahasa Utara"
+      },
+      {
+        "name":"Kota Bitung"
+      },
+      {
+        "name":"Kota Kotamobagu"
+      },
+      {
+        "name":"Kota Manado"
+      },
+      {
+        "name":"Kota Tomohon"
       }
     ]
   },
   {
+    "code": "72",
+    "name":"Sulawesi Tengah",
+    "districts": [
+      {
+        "name":"Kabupaten Banggai"
+      },
+      {
+        "name":"Kabupaten Banggai Kepulauan"
+      },
+      {
+        "name":"Kabupaten Banggai Laut"
+      },
+      {
+        "name":"Kabupaten Buol"
+      },
+      {
+        "name":"Kabupaten Donggala"
+      },
+      {
+        "name":"Kabupaten Morowali"
+      },
+      {
+        "name":"Kabupaten Morowali Utara"
+      },
+      {
+        "name":"Kabupaten Parigi Moutong"
+      },
+      {
+        "name":"Kabupaten Poso"
+      },
+      {
+        "name":"Kabupaten Sigi"
+      },
+      {
+        "name":"Kabupaten Tojo Una-Una"
+      },
+      {
+        "name":"Kabupaten Toli-Toli"
+      },
+      {
+        "name":"Kota Palu"
+      }
+    ]
+  },
+  {
+    "code": "73",
     "name":"Sulawesi Selatan",
     "districts": [
       {
@@ -1330,6 +1429,7 @@
     ]
   },
   {
+    "code": "74",
     "name":"Sulawesi Tenggara",
     "districts": [
       {
@@ -1386,100 +1486,31 @@
     ]
   },
   {
-    "name":"Sulawesi Tengah",
+    "code": "75",
+    "name":"Gorontalo",
     "districts": [
       {
-        "name":"Kabupaten Banggai"
+        "name":"Kabupaten Boalemo"
       },
       {
-        "name":"Kabupaten Banggai Kepulauan"
+        "name":"Kabupaten Bone Bolango"
       },
       {
-        "name":"Kabupaten Banggai Laut"
+        "name":"Kabupaten Gorontalo"
       },
       {
-        "name":"Kabupaten Buol"
+        "name":"Kabupaten Gorontalo Utara"
       },
       {
-        "name":"Kabupaten Donggala"
+        "name":"Kabupaten Pohuwato"
       },
       {
-        "name":"Kabupaten Morowali"
-      },
-      {
-        "name":"Kabupaten Morowali Utara"
-      },
-      {
-        "name":"Kabupaten Parigi Moutong"
-      },
-      {
-        "name":"Kabupaten Poso"
-      },
-      {
-        "name":"Kabupaten Sigi"
-      },
-      {
-        "name":"Kabupaten Tojo Una-Una"
-      },
-      {
-        "name":"Kabupaten Toli-Toli"
-      },
-      {
-        "name":"Kota Palu"
+        "name":"Kota Gorontalo"
       }
     ]
   },
   {
-    "name":"Sulawesi Utara",
-    "districts": [
-      {
-        "name":"Kabupaten Bolaang Mongondow"
-      },
-      {
-        "name":"Kabupaten Bolaang Mongondow Selatan"
-      },
-      {
-        "name":"Kabupaten Bolaang Mongondow Timur"
-      },
-      {
-        "name":"Kabupaten Bolaang Mongondow Utara"
-      },
-      {
-        "name":"Kabupaten Kepulauan Sangihe"
-      },
-      {
-        "name":"Kabupaten Kepulauan Siau Tagulandang Biaro"
-      },
-      {
-        "name":"Kabupaten Kepulauan Talaud"
-      },
-      {
-        "name":"Kabupaten Minahasa"
-      },
-      {
-        "name":"Kabupaten Minahasa Selatan"
-      },
-      {
-        "name":"Kabupaten Minahasa Tenggara"
-      },
-      {
-        "name":"Kabupaten Minahasa Utara"
-      },
-      {
-        "name":"Kota Bitung"
-      },
-      {
-        "name":"Kota Kotamobagu"
-      },
-      {
-        "name":"Kota Manado"
-      },
-      {
-        "name":"Kota Tomohon"
-      }
-    ]
-  },
-  {
+    "code": "76",
     "name":"Sulawesi Barat",
     "districts": [
       {
@@ -1503,6 +1534,7 @@
     ]
   },
   {
+    "code": "81",
     "name":"Maluku",
     "districts": [
       {
@@ -1541,6 +1573,7 @@
     ]
   },
   {
+    "code": "82",
     "name":"Maluku Utara",
     "districts": [
       {
@@ -1576,6 +1609,7 @@
     ]
   },
   {
+    "code": "91",
     "name":"Papua",
     "districts": [
       {
@@ -1668,6 +1702,7 @@
     ]
   },
   {
+    "code": "92"
     "name":"Papua Barat",
     "districts": [
       {
