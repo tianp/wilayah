@@ -4,72 +4,95 @@
     "name":"Aceh",
     "districts": [
       {
-        "name":"Kabupaten Aceh Barat"
-      },
-      {
-        "name":"Kabupaten Aceh Barat Daya"
-      },
-      {
-        "name":"Kabupaten Aceh Besar"
-      },
-      {
-        "name":"Kabupaten Aceh Jaya"
-      },
-      {
+        "code": "11.01",
         "name":"Kabupaten Aceh Selatan"
       },
       {
-        "name":"Kabupaten Aceh Singkil"
-      },
-      {
-        "name":"Kabupaten Aceh Tamiang"
-      },
-      {
-        "name":"Kabupaten Aceh Tengah"
-      },
-      {
+        "code": "11.02",
         "name":"Kabupaten Aceh Tenggara"
       },
       {
+        "code": "11.03",
         "name":"Kabupaten Aceh Timur"
       },
       {
-        "name":"Kabupaten Aceh Utara"
+        "code": "11.04",
+        "name":"Kabupaten Aceh Tengah"
       },
       {
-        "name":"Kabupaten Bener Meriah"
+        "code": "11.05",
+        "name":"Kabupaten Aceh Barat"
       },
       {
-        "name":"Kabupaten Bireuen"
+        "code": "11.06",
+        "name":"Kabupaten Aceh Besar"
       },
       {
-        "name":"Kabupaten Gayo Lues"
-      },
-      {
-        "name":"Kabupaten Nagan Raya"
-      },
-      {
+        "code": "11.07",
         "name":"Kabupaten Pidie"
       },
       {
-        "name":"Kabupaten Pidie Jaya"
+        "code": "11.08",
+        "name":"Kabupaten Aceh Utara"
       },
       {
+        "code": "11.09",
         "name":"Kabupaten Simeulue"
       },
       {
+        "code": "11.10",
+        "name":"Kabupaten Aceh Singkil"
+      },
+      {
+        "code": "11.11",
+        "name":"Kabupaten Bireuen"
+      },
+      {
+        "code": "11.12",
+        "name":"Kabupaten Aceh Barat Daya"
+      },
+      {
+        "code": "11.13",
+        "name":"Kabupaten Gayo Lues"
+      },
+      {
+        "code": "11.14",
+        "name":"Kabupaten Aceh Jaya"
+      },
+      {
+        "code": "11.15",
+        "name":"Kabupaten Nagan Raya"
+      },
+      {
+        "code": "11.16",
+        "name":"Kabupaten Aceh Tamiang"
+      },
+      {
+        "code": "11.17",
+        "name":"Kabupaten Bener Meriah"
+      },
+      {
+        "code": "11.18",
+        "name":"Kabupaten Pidie Jaya"
+      },
+      {
+        "code": "11.71",
         "name":"Kota Banda Aceh"
       },
       {
-        "name":"Kota Langsa"
-      },
-      {
-        "name":"Kota Lhokseumawe"
-      },
-      {
+        "code": "11.72",
         "name":"Kota Sabang"
       },
       {
+        "code": "11.73",
+        "name":"Kota Lhokseumawe"
+      },
+      {
+        "code": "11.74",
+        "name":"Kota Langsa"
+      },
+      {
+        "code": "11.75",
         "name":"Kota Subulussalam"
       }
     ]
