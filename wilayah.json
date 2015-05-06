@@ -224,7 +224,7 @@
       {
         "code": "12.76",
         "name":"Kota Tebing Tinggi"
-      }
+      },
       {
         "code": "12.77",
         "name":"Kota Padangsidimpuan"
@@ -1789,7 +1789,7 @@
     ]
   },
   {
-    "code": "92"
+    "code": "92",
     "name":"Papua Barat",
     "districts": [
       {
