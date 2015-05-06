@@ -240,61 +240,80 @@
     "name":"Sumatera Barat",
     "districts": [
       {
-        "name":"Kabupaten Agam"
-      },
-      {
-        "name":"Kabupaten Dharmasraya"
-      },
-      {
-        "name":"Kabupaten Kepulauan Mentawai"
-      },
-      {
-        "name":"Kabupaten Lima Puluh Kota"
-      },
-      {
-        "name":"Kabupaten Padang Pariaman"
-      },
-      {
-        "name":"Kabupaten Pasaman"
-      },
-      {
-        "name":"Kabupaten Pasaman Barat"
-      },
-      {
+        "code": "13.01",
         "name":"Kabupaten Pesisir Selatan"
       },
       {
-        "name":"Kabupaten Sijunjung"
-      },
-      {
+        "code": "13.02",
         "name":"Kabupaten Solok"
       },
       {
-        "name":"Kabupaten Solok Selatan"
+        "code": "13.03",
+        "name":"Kabupaten Sijunjung"
       },
       {
+        "code": "13.04",
         "name":"Kabupaten Tanah Datar"
       },
       {
-        "name":"Kota Bukittinggi"
+        "code": "13.05",
+        "name":"Kabupaten Padang Pariaman"
       },
       {
+        "code": "13.06",
+        "name":"Kabupaten Agam"
+      },
+      {
+        "code": "13.07",
+        "name":"Kabupaten Lima Puluh Kota"
+      },
+      {
+        "code": "13.08",
+        "name":"Kabupaten Pasaman"
+      },
+      {
+        "code": "13.09",
+        "name":"Kabupaten Kepulauan Mentawai"
+      },
+      {
+        "code": "13.10",
+        "name":"Kabupaten Dharmasraya"
+      },
+      {
+        "code": "13.11",
+        "name":"Kabupaten Solok Selatan"
+      },
+      {
+        "code": "13.12",
+        "name":"Kabupaten Pasaman Barat"
+      },
+      {
+        "code": "13.71",
         "name":"Kota Padang"
       },
       {
-        "name":"Kota Padangpanjang"
+        "code": "13.72",
+        "name":"Kota Solok"
       },
       {
-        "name":"Kota Pariaman"
-      },
-      {
-        "name":"Kota Payakumbuh"
-      },
-      {
+        "code": "13.73",
         "name":"Kota Sawahlunto"
       },
       {
-        "name":"Kota Solok"
+        "code": "13.74",
+        "name":"Kota Padang Panjang"
+      },
+      {
+        "code": "13.75",
+        "name":"Kota Bukittinggi"
+      },
+      {
+        "code": "13.76",
+        "name":"Kota Payakumbuh"
+      },
+      {
+        "code": "13.77",
+        "name":"Kota Pariaman"
       }
     ]
   },
@@ -303,40 +322,52 @@
     "name":"Riau",
     "districts": [
       {
-        "name":"Kabupaten Bengkalis"
-      },
-      {
-        "name":"Kabupaten Indragiri Hilir"
-      },
-      {
-        "name":"Kabupaten Indragiri Hulu"
-      },
-      {
+        "code": "14.01",
         "name":"Kabupaten Kampar"
       },
       {
-        "name":"Kabupaten Kepulauan Meranti"
+        "code": "14.02",
+        "name":"Kabupaten Indragiri Hulu"
       },
       {
-        "name":"Kabupaten Kuantan Singingi"
+        "code": "14.03",
+        "name":"Kabupaten Bengkalis"
       },
       {
+        "code": "14.04",
+        "name":"Kabupaten Indragiri Hilir"
+      },
+      {
+        "code": "14.05",
         "name":"Kabupaten Pelalawan"
       },
       {
-        "name":"Kabupaten Rokan Hilir"
-      },
-      {
+        "code": "14.06",
         "name":"Kabupaten Rokan Hulu"
       },
       {
+        "code": "14.07",
+        "name":"Kabupaten Rokan Hilir"
+      },
+      {
+        "code": "14.08",
         "name":"Kabupaten Siak"
       },
       {
-        "name":"Kota Dumai"
+        "code": "14.09",
+        "name":"Kabupaten Kuantan Singingi"
       },
       {
+        "code": "14.10",
+        "name":"Kabupaten Kepulauan Meranti"
+      },
+      {
+        "code": "14.71",
         "name":"Kota Pekanbaru"
+      },
+      {
+        "code": "14.72",
+        "name":"Kota Dumai"
       }
     ]
   },
