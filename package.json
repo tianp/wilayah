@@ -1,0 +1,24 @@
+{
+  "name": "wilayah",
+  "version": "0.1.0",
+  "description": "Hackable Indonesia regions data.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://tianp@github.com/tianp/wilayah.git"
+  },
+  "author": "Tian Permana <hello@tianpermana.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tianp/wilayah/issues"
+  },
+  "homepage": "https://github.com/tianp/wilayah",
+  "devDependencies": {
+    "chai": "^2.3.0",
+    "mocha": "^2.2.4",
+    "validator": "^3.39.0"
+  }
+}
