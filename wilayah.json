@@ -376,36 +376,47 @@
     "name":"Jambi",
     "districts": [
       {
-        "name":"Kabupaten Batanghari"
-      },
-      {
-        "name":"Kabupaten Bungo"
-      },
-      {
+        "code": "15.01",
         "name":"Kabupaten Kerinci"
       },
       {
+        "code": "15.02",
         "name":"Kabupaten Merangin"
       },
       {
-        "name":"Kabupaten Muaro Jambi"
-      },
-      {
+        "code": "15.03",
         "name":"Kabupaten Sarolangun"
       },
       {
+        "code": "15.04",
+        "name":"Kabupaten Batanghari"
+      },
+      {
+        "code": "15.05",
+        "name":"Kabupaten Muaro Jambi"
+      },
+      {
+        "code": "15.06",
         "name":"Kabupaten Tanjung Jabung Barat"
       },
       {
+        "code": "15.07",
         "name":"Kabupaten Tanjung Jabung Timur"
       },
       {
+        "code": "15.08",
+        "name":"Kabupaten Bungo"
+      },
+      {
+        "code": "15.09",
         "name":"Kabupaten Tebo"
       },
       {
+        "code": "15.71",
         "name":"Kota Jambi"
       },
       {
+        "code": "15.72",
         "name":"Kota Sungai Penuh"
       }
     ]
@@ -415,54 +426,72 @@
     "name":"Sumatera Selatan",
     "districts": [
       {
-        "name":"Kabupaten Banyuasin"
-      },
-      {
-        "name":"Kabupaten Empat Lawang"
-      },
-      {
-        "name":"Kabupaten Lahat"
-      },
-      {
-        "name":"Kabupaten Muara Enim"
-      },
-      {
-        "name":"Kabupaten Musi Banyuasin"
-      },
-      {
-        "name":"Kabupaten Musi Rawas"
-      },
-      {
-        "name":"Kabupaten Musi Rawas Utara"
-      },
-      {
-        "name":"Kabupaten Ogan Ilir"
-      },
-      {
-        "name":"Kabupaten Ogan Komering Ilir"
-      },
-      {
+        "code": "16.01",
         "name":"Kabupaten Ogan Komering Ulu"
       },
       {
-        "name":"Kabupaten Ogan Komering Ulu Selatan"
+        "code": "16.02",
+        "name":"Kabupaten Ogan Komering Ilir"
       },
       {
+        "code": "16.03",
+        "name":"Kabupaten Muara Enim"
+      },
+      {
+        "code": "16.04",
+        "name":"Kabupaten Lahat"
+      },
+      {
+        "code": "16.05",
+        "name":"Kabupaten Musi Rawas"
+      },
+      {
+        "code": "16.06",
+        "name":"Kabupaten Musi Banyuasin"
+      },
+      {
+        "code": "16.07",
+        "name":"Kabupaten Banyuasin"
+      },
+
+      {
+        "code": "16.13",
+        "name":"Kabupaten Musi Rawas Utara"
+      },
+      {
+        "code": "16.08",
         "name":"Kabupaten Ogan Komering Ulu Timur"
       },
       {
+        "code": "16.09",
+        "name":"Kabupaten Ogan Komering Ulu Selatan"
+      },
+      {
+        "code": "16.10",
+        "name":"Kabupaten Ogan Ilir"
+      },
+      {
+        "code": "16.11",
+        "name":"Kabupaten Empat Lawang"
+      },
+      {
+        "code": "16.12",
         "name":"Kabupaten Penukal Abab Lematang Ilir"
-      },
+      }
       {
-        "name":"Kota Lubuklinggau"
-      },
-      {
-        "name":"Kota Pagar Alam"
-      },
-      {
+        "code": "16.71",
         "name":"Kota Palembang"
       },
       {
+        "code": "16.72",
+        "name":"Kota Pagar Alam"
+      },
+      {
+        "code": "16.73",
+        "name":"Kota Lubuklinggau"
+      },
+      {
+        "code": "16.74",
         "name":"Kota Prabumulih"
       }
     ]
