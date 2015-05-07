@@ -500,33 +500,43 @@
     "name":"Bengkulu",
     "districts": [
       {
+        "code": "17.01",
         "name":"Kabupaten Bengkulu Selatan"
       },
       {
-        "name":"Kabupaten Bengkulu Tengah"
-      },
-      {
-        "name":"Kabupaten Bengkulu Utara"
-      },
-      {
-        "name":"Kabupaten Kaur"
-      },
-      {
-        "name":"Kabupaten Kepahiang"
-      },
-      {
-        "name":"Kabupaten Lebong"
-      },
-      {
-        "name":"Kabupaten Mukomuko"
-      },
-      {
+        "code": "17.02",
         "name":"Kabupaten Rejang Lebong"
       },
       {
+        "code": "17.03",
+        "name":"Kabupaten Bengkulu Utara"
+      },
+      {
+        "code": "17.04",
+        "name":"Kabupaten Kaur"
+      },
+      {
+        "code": "17.05",
         "name":"Kabupaten Seluma"
       },
       {
+        "code": "17.06",
+        "name":"Kabupaten Muko Muko"
+      },
+      {
+        "code": "17.07",
+        "name":"Kabupaten Lebong"
+      },
+      {
+        "code": "17.08",
+        "name":"Kabupaten Kepahiang"
+      },
+      {
+        "code": "17.09",
+        "name":"Kabupaten Bengkulu Tengah"
+      },
+      {
+        "code": "17.71",
         "name":"Kota Bengkulu"
       }
     ]
